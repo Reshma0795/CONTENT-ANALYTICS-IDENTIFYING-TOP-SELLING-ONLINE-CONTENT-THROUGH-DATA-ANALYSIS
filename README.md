@@ -22,4 +22,4 @@ This task involved analyzing 7 datasets and creating a data model to merge table
 After cleaning the dataset and doing analysis, the next step was to communicate the relevant insights in a concise and engaging way for client and team members to understand. This involved bringing the data to life using visualizations. I chose data visualizations that best supported the story I wanted to tell.
 
 ## 4. Presentation to Client
-In this step after presenting to client, this step involved presenting the findings to client.
+In this step after presenting to team members, this step involved presenting the findings to client.
