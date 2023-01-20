@@ -8,15 +8,15 @@ These are the tasks I have worked on in the project:
 
 ## 1. Project Understanding
 This task was a project brief on:
-   a. Understanding the client and business problem at hand.
-   b. Identifying the requirements that need to be delivered for the project.
-   c. Identifying the tasks to focus on as a Data Analyst.
+   - Understanding the client and business problem at hand.
+   - Identifying the requirements that need to be delivered for the project.
+   - Identifying the tasks to focus on as a Data Analyst.
    
 ## 2. Data Cleaning & Modelling
 This task involved analyzing 7 datasets and creating a data model to merge tables. The following steps were followed to make sure I am using the right data to answer the business question - 
-    a. Requirements gathering
-    b. Data cleaning
-    c. Data modelling
+    - Requirements gathering
+    - Data cleaning
+    - Data modelling
     
     
 ## 3. Data Visualization & Storytelling
