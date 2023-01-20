@@ -1,6 +1,6 @@
 # Social-Buzz
 
-I have completed working on this project as part of the Accenture Virtual Internship program, a free self-paced virtual experience for building skills on a real world problem and dataset.
+Social Buzz is a repository of the work I have done as part of the Accenture Virtual Internship program, a free self-paced virtual experience for building skills on a real world problem and dataset.
 
 My role in the internship was as a Data Analyst at Accenture, where I was working with a large team with each team member having a different role and level of responsibility. I was assigned a project called as Social Buzz. 
 
