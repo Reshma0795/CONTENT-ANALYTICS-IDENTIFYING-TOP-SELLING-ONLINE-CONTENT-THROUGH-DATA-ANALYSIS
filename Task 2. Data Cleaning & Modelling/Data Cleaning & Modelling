@@ -2,7 +2,7 @@ In this task, the data was collected from client.
 
 The following was provided by the client:
 - 7 data sets - each data set contains different columns and values
-- A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+- A data model - this shows the relationships between all of the data sets, as well as any links that can be used to merge tables.
 
 
 The following steps were followed to answer the business questions - 
@@ -64,10 +64,10 @@ This data cleaning was done in excel.
 
 3. Data modelling
 The following steps were performed in Data Modelling - 
-1. Created a final data set by merging three tables together. 
+ 3.1. Created a final data set by merging three tables together. 
 The reaction table was used as a base table then joining the Content data set and Reaction Types data set using VlookUp formula.
 
-2. Figure out the Top 5 performing categories
+ 3.2. Figure out the Top 5 performing categories
 Added up the total scores for each category. Using the “Sum If” formula.
 
 
