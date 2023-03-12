@@ -32,7 +32,7 @@ This task involved analyzing 7 datasets given by the client and creating a data 
 ### 3. Data Visualization & Storytelling
 After cleaning the dataset and doing analysis, the next step was to communicate the relevant insights in a concise and engaging way for client and team members to understand. This involved bringing the data to life using visualizations to support the story I wanted to tell. I used Microsoft PowerBI for the visualization insights.
 
-## Overall View of Dashboard![Social_Buzz_PowerBI](https://user-images.githubusercontent.com/33488566/224522200-0a109664-7558-4a71-bff5-4dd9c83dcde1.png)
+## Overall View of Dashboard![Social_Buzz_PowerBI](https://user-images.githubusercontent.com/33488566/224522324-632bfa8b-6e43-4666-9ed9-c23435b1a902.png)
 
 
 ## Analysis & Insights
