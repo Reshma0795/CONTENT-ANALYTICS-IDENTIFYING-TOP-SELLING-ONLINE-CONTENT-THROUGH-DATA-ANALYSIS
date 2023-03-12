@@ -3,15 +3,24 @@
 Social Buzz is a repository of the work I have done as part of the [Accenture Virtual Internship](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/data-analytics-virtual-experience?forceFastTrackV2=true) program at Forage, a free self-paced virtual experience for building skills on a real world problem and dataset. 
 
 My role in the internship was as a Data Analyst at Accenture, where I was working with a large team with each team member having a different role and level of responsibility. I was assigned a project called as Social Buzz. 
+ 
+## Client Background
+* Social Buzz is a fast-growing social media organization and over the past 5 years, Social Buzz has reached over 500 million active users each month. They have scaled quicker than anticipated and need the help of an advisory firm to oversee their scaling process effectively.
 
-These are the tasks I have worked on in the project:
+* Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. Every day over 100,000 pieces of content, ranging from text, images, videos and GIFs are posted. All of this data is highly unstructured and requires extremely sophisticated and expensive technology to manage and maintain.
 
+* Up until this point, they have not relied on any third-party firms to help them get to where they are. However, one of the main reasons why they are looking to at bringing in external expertise is because, they want to learn data best practices from a large corporation. Due to the nature of their business, they have a massive amount of data so they are keen on understanding how the world’s biggest companies manage the challenges of big data.
+
+## Business Problem
+The client has reached a massive scale within recent years and does not have the resources internally to handle its data.
+
+The following tasks are performed by me to address the business problem:
 ## 1. Project Understanding
 This task was a project brief on:
    - Understanding the client and business problem at hand.
    - Identifying the requirements that need to be delivered for the project.
    - Identifying the tasks to focus on as a Data Analyst.
-   
+   - 
 ## 2. Data Cleaning & Modelling
 This task involved analyzing 7 datasets and creating a data model to merge tables. The data modelling was done in Microsoft Excel using Vlookup function. The following steps were followed to make sure I am using the right data to answer the business question:
    1) Requirement Gathering
