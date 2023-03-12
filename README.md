@@ -14,14 +14,16 @@ My role in the internship was as a Data Analyst at Accenture, where I was workin
 ## Business Problem
 The client has reached a massive scale within recent years and does not have the resources internally to handle its data.
 
+## Tasks
+
 The following tasks were performed by me to address the business problem:
-## 1. Project Understanding
+### 1. Project Understanding
 This task was a project brief on:
    - Understanding the client and business problem at hand.
    - Identifying the requirements that need to be delivered for the project.
    - Identifying the tasks to focus on as a Data Analyst.
    
-## 2. Data Cleaning & Modelling
+### 2. Data Cleaning & Modelling
 This task involved analyzing 7 datasets given by the client and creating a data model to merge several tables. I performed data modelling in Microsoft Excel using Vlookup function. The following steps were followed to make sure I was using the right data to answer the business question:
    1) Requirement Gathering
    * The relevant datasets selected for answering the business question were - Reaction, Content, and Reaction Types. 
@@ -52,5 +54,8 @@ The end result was a spreadsheet which contains:
 - A cleaned dataset
 - The list of top 5 categories
 
-## 3. Data Visualization & Storytelling
+### 3. Data Visualization & Storytelling
 After cleaning the dataset and doing analysis, the next step was to communicate the relevant insights in a concise and engaging way for client and team members to understand. This involved bringing the data to life using visualizations to support the story I wanted to tell. I used Microsoft PowerBI for the visualization insights.
+
+## Overall View of Dashboard
+![](Social_Buzz_PowerBI.png)
