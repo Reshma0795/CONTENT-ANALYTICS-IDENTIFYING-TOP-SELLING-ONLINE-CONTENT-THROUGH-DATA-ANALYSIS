@@ -26,36 +26,17 @@ This task was a project brief on:
 ### 2. Data Cleaning & Modelling
 This task involved analyzing 7 datasets given by the client and creating a data model to merge several tables. I performed data modelling in Microsoft Excel using Vlookup function. The following steps were followed to make sure I was using the right data to answer the business question:
    1) Requirement Gathering
-   * The relevant datasets selected for answering the business question were - Reaction, Content, and Reaction Types. 
-   * The reason for selecting these datasets is:
-      - The client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
-      - As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
-      - We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
-      - So, to figure out popularity, we’ll have to add up which content categories have the largest score.
-
    2) Data Cleaning
-   * The Data Cleaning task was done in Microsoft Excel and the following was performed -
-      - removing rows that have values which are missing,
-      - changing the data type of some values within a column, and
-      - removing columns which are not relevant to this task
-   
-   
    3) Data Modelling
-   * The following steps were performed in Data Modelling - 
-      - Created a final data set by merging three tables together. 
-      -The reaction table was used as a base table then joining the Content data set and Reaction Types data set using VlookUp formula.
-
-   * Figuring out the Top 5 performing categories
-      - Added up the total scores for each category. Using the “Sum If” formula.
-
-
-The end result was a spreadsheet which contains:
-
-- A cleaned dataset
-- The list of top 5 categories
 
 ### 3. Data Visualization & Storytelling
 After cleaning the dataset and doing analysis, the next step was to communicate the relevant insights in a concise and engaging way for client and team members to understand. This involved bringing the data to life using visualizations to support the story I wanted to tell. I used Microsoft PowerBI for the visualization insights.
 
 ## Overall View of Dashboard
 ![](Task 3. Data Visualization & Storytelling/Social_Buzz_PowerBI.png)
+
+## Analysis & Insights
+* There are total 16 categories in the dataset, and looking at the sum of scores for each category we can see that the top 5 categories are Animal, Science, Healthy Eating, Technology, Food.
+* May is the month having the highest number of posts with a total of 2,138 posts, this shows that people post a lot during this period. Other high. Though there is a huge drop in total posts in the month of February with a total of 1,914 posts. From this chart we can see that posts by month undulating (rises and falls).
+* Most popular Reactions by score super-love has 114k , adore 111k, want 108k, cherish 105k, and love 100k and the least popular reactions are digust, hate, dislike.
+* There are total 4 contents namely photo, audio, gif, video. The percentage of these contents by score show that photo content is the most popular with 27%. This is followed by video at 25.31%, GIF at 24.47$, audio at 23.22%.
