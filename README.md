@@ -58,4 +58,4 @@ The end result was a spreadsheet which contains:
 After cleaning the dataset and doing analysis, the next step was to communicate the relevant insights in a concise and engaging way for client and team members to understand. This involved bringing the data to life using visualizations to support the story I wanted to tell. I used Microsoft PowerBI for the visualization insights.
 
 ## Overall View of Dashboard
-![](Social_Buzz_PowerBI.png)
+![](Task 3. Data Visualization & Storytelling/Social_Buzz_PowerBI.png)
