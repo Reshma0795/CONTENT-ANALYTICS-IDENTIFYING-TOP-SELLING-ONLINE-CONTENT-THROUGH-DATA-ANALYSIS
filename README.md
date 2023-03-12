@@ -14,7 +14,7 @@ This task was a project brief on:
    
 ## 2. Data Cleaning & Modelling
 This task involved analyzing 7 datasets and creating a data model to merge tables. The data modelling was done in Microsoft Excel using Vlookup function. The following steps were followed to make sure I am using the right data to answer the business question:
-   - Requirement Gathering
+   1) Requirement Gathering
    * The relevant datasets selected for answering the business question were - Reaction, Content, and Reaction Types. 
    * The clarification for selecting these datasets is:
       - The brief carefully states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
@@ -22,14 +22,14 @@ This task involved analyzing 7 datasets and creating a data model to merge table
       - We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
       - So, to figure out popularity, we’ll have to add up which content categories have the largest score.
 
-   - Data Cleaning
+   2) Data Cleaning
    * The following was performed in Data Cleaning - 
       - removing rows that have values which are missing,
       - changing the data type of some values within a column, and
       - removing columns which are not relevant to this task
    * This data cleaning was done in excel.
    
-   - Data Modelling
+   3) Data Modelling
    * The following steps were performed in Data Modelling - 
       - Created a final data set by merging three tables together. 
       -The reaction table was used as a base table then joining the Content data set and Reaction Types data set using VlookUp formula.
