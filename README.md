@@ -1,4 +1,4 @@
-# CONTENT ANALYTICS: IDENTIFYING TOP SELLING ONLINE CONTENT THROUGH DATA ANALYSIS
+# Content Analytics: Identifying Top Selling Online Content Through Data Analysis
 This is a repository of the work I have done as part of the [Accenture Virtual Internship](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/data-analytics-virtual-experience?forceFastTrackV2=true) program at Forage, a free self-paced virtual experience for building skills on a real world problem and dataset. 
 
 My role in the internship was as a Data Analyst at Accenture, where I was working with a large team with each team member having a different role and level of responsibility. I was assigned a project called as Social Buzz. 
