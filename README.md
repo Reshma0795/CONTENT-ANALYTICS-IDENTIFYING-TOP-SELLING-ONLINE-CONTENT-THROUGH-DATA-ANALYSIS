@@ -1,7 +1,7 @@
 # Content Analytics: Identifying Top Selling Online Content Through Data Analysis
 This is a repository of the work I have done as part of the [Accenture Virtual Internship](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/data-analytics-virtual-experience?forceFastTrackV2=true) program at Forage, a free self-paced virtual experience for building skills on a real world problem and dataset. 
 
-My role in the internship was as a Data Analyst at Accenture, where I was working with a large team with each team member having a different role and level of responsibility. I was assigned a project called as Social Buzz. 
+My role in the internship was as a Data Analyst at Accenture, where I was working with a large team with each team member having a different role and level of responsibility. The name of the project is Social Buzz. 
  
 ## Client Background
 * Social Buzz is a fast-growing social media organization and over the past 5 years, Social Buzz has reached over 500 million active users each month. They have scaled quicker than anticipated and need the help of an advisory firm to oversee their scaling process effectively.
